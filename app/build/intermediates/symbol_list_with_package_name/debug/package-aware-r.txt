@@ -679,6 +679,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id bt_start
 id buttonPanel
 id center
 id center_horizontal
